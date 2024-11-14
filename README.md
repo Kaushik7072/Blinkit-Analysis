@@ -73,7 +73,7 @@ Data Sources: BlinkIT Grocery Data.xlsx
 <br/>
 
 
-**This Dashboard Covered THe following Question:**
+**This Dashboard Covered The following Question:**
 
 1. What is the total sale revenue?
  
