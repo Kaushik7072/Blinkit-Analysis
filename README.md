@@ -25,6 +25,7 @@
 <br/>
 
 **Requirements:** 
+
 Software: Power BI Desktop (latest version recommended)
 
 Data Sources: BlinkIT Grocery Data.xlsx
@@ -39,7 +40,8 @@ Data Sources: BlinkIT Grocery Data.xlsx
 
 
 
-**Usage Instruction:** 
+**Usage Instruction:**
+
 *Open the .pbix File: Load the .pbix file in Power BI Desktop.
 
 *Refresh Data: If necessary, refresh the data to load the latest data from connected sources.
@@ -48,12 +50,14 @@ Data Sources: BlinkIT Grocery Data.xlsx
 
 
 **Customization:**
+
 *Add Filters: Customize filters to highlight specific data points.
 
 <br/>
 
 
 **Data Preparation:**
+
 1.Data Cleaning:
 *Handled missing values, outliers, and inconsistencies in the data.
 *Corrected data types and formatting errors.
@@ -64,6 +68,7 @@ Data Sources: BlinkIT Grocery Data.xlsx
 <br/>
 
 **Contact:** 
+
 For any questions or additional support, please contact:
 
 
