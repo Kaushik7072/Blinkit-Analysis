@@ -45,6 +45,7 @@ Data Sources: BlinkIT Grocery Data.xlsx
 
 **Contact:** 
 For any questions or additional support, please contact:
+
 Name: Kaushik Parmar
 Email: kaushikparmar7072@gmail.com
 This structure provides clarity and context for anyone who uses or reviews this project. Let me know if you’d like help expanding any section or adding details!
