@@ -12,14 +12,18 @@
 <br/>
 **Key Feature:** 
 *Sales Analysis: Focus on total sales, average sales, item numbers, and ratings to track performance.
+
 *Interactive Visuals: Donut charts and bar charts for detailed insights into sales by fat content and item type.
+
 *Location-Based Insights: Analysis of sales by outlet size, location, and type to optimize resource allocation.
+
 *Enhanced Usability: Interactive slicers and customized visuals for an intuitive, user-friendly dashboard experience.
 
 <br/>
 
 **Requirements:** 
 Software: Power BI Desktop (latest version recommended)
+
 Data Sources: BlinkIT Grocery Data.xlsx
 
 <br/>
@@ -34,6 +38,7 @@ Data Sources: BlinkIT Grocery Data.xlsx
 
 **Usage Instruction:** 
 *Open the .pbix File: Load the .pbix file in Power BI Desktop.
+
 *Refresh Data: If necessary, refresh the data to load the latest data from connected sources.
 
 <br/>
