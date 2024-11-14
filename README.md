@@ -72,6 +72,24 @@ Data Sources: BlinkIT Grocery Data.xlsx
 
 <br/>
 
+
+**This Dashboard Covered THe following Question:**
+
+1. What is the total sale revenue?
+ 
+2. How are the sales performing on average?
+ 
+3. how many items are being sold in total, and what is the average rating of the products?
+ 
+4. how do product like fat content affects the sales?
+  
+5. how are sales trending over different periods(eg. yearly, monthly)
+    
+6. are there specific times when sales spike or drop?
+    
+7. which type of products or categories are the top performers in term of sales and customer satisfaction?
+
+
 **Contact:** 
 
 For any questions or additional support, please contact:
@@ -82,4 +100,5 @@ Name: Kaushik Parmar
 Email: kaushikparmar7072@gmail.com
 
 This structure provides clarity and context for anyone who uses or reviews this project. Let me know if you’d like help expanding any section or adding details!
+
 
