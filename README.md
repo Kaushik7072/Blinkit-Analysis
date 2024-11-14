@@ -59,10 +59,15 @@ Data Sources: BlinkIT Grocery Data.xlsx
 **Data Preparation:**
 
 1.Data Cleaning:
+
 *Handled missing values, outliers, and inconsistencies in the data.
+
 *Corrected data types and formatting errors.
+
 2.Data Enrichment:
+
 *Deleted unnecessary columns
+
 *Deleted blank and extra cells.
 
 <br/>
