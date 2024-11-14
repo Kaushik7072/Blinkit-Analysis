@@ -6,11 +6,14 @@
 <br/>
 
 **Project File:** 
+
 *File Name: Blinkit Analysis.pbix
+
 *File Type: PowerBi Desktop File(.pbix)
 <br>
 <br/>
 **Key Feature:** 
+
 *Sales Analysis: Focus on total sales, average sales, item numbers, and ratings to track performance.
 
 *Interactive Visuals: Donut charts and bar charts for detailed insights into sales by fat content and item type.
