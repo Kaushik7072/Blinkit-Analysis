@@ -1,4 +1,4 @@
-**README: PowerBi Sales Analysis Dashboard**
+****PowerBi Sales Analysis Dashboard****
 
 **Project Overview:**
  This project analyzes the sales performance of Blinkit, an Indian grocery app, using Power BI dashboard. The dashboard visualizes key metrics such as Total Sales, Average sales, Number of items, and Ratings. Interactive features like slicers allow users to filter data for tailored insights, while various visualizations, including donut charts and bar charts, offer in-depth analysis of sales by item type, fat content, and location.
